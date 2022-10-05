@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python-3 Mundo-2/.idea/Python-3 Mundo-2.iml" filepath="$PROJECT_DIR$/../Python-3 Mundo-2/.idea/Python-3 Mundo-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonExercicios.iml" filepath="$PROJECT_DIR$/.idea/PythonExercicios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Python-3 Mundo-1/PythonTest/.idea/PythonTest.iml" filepath="$PROJECT_DIR$/../Python-3 Mundo-1/PythonTest/.idea/PythonTest.iml" />
     </modules>
   </component>
 </project>
